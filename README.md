@@ -1,2 +1,0 @@
-# hello-today
-manage everyday
