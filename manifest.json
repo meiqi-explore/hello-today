@@ -1,0 +1,16 @@
+{
+  "name": "hello today",
+  "short_name": "hello today",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://meiqi-explore.github.io/hello-today/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait"
+}
